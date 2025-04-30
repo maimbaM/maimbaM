@@ -92,11 +92,6 @@ University of Nairobi — *Class of 2021*
 
 ---
 
-## 📈 Contribution Graph
-
-[![Brian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maimbaM&theme=github-compact)](https://github.com/maimbaM)
-
----
 
 ## 📫 Let's Connect
 
