@@ -15,10 +15,10 @@
 
 ⚙️ I've:
 - Built systems handling **2B+ monthly transactions**
-- Delivered multilingual platforms, cutting localization effort by **50%**
+- Delivered multilingual platforms in 20+ countries, cutting localization effort by **50%**
 - Automated financial reconciliation and backup workflows, saving time and reducing errors
-- Created Power BI dashboards enabling operational decision-making across **20+ countries**
-- Integrated BLE IoT tech for COVID-19 contact tracing during the pandemic
+- Created data dashboards enabling operational decision-making across **20+ countries**
+- Integrated BLE IoT tech for COVID-19 contact tracing during the pandemic 
 
 ---
 
@@ -26,6 +26,7 @@
 
 ### Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-092E20?style=flat&logo=java)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
