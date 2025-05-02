@@ -92,6 +92,11 @@ University of Nairobi — *Class of 2021*
 
 ---
 
+---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maimbaM&theme=tokyonight)
+
+---
+
 
 ## 📫 Let's Connect
 
