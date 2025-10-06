@@ -1,6 +1,5 @@
 # 👋🏾 Hello, I'm Brian Maimba
 
-![Profile Views](https://komarev.com/ghpvc/?username=maimbaM&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/maimbaM?label=Followers&style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/brian-maimba/)
 
