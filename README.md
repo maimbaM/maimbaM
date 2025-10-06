@@ -1,10 +1,9 @@
 # 👋🏾 Hello, I'm Brian Maimba
 
-![GitHub followers](https://img.shields.io/github/followers/maimbaM?label=Followers&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/brian-maimba/)
+
 
 **Backend Software Engineer | Data-Driven Systems Expert | Cloud & DevOps Enthusiast**  
-📍 Nairobi, Kenya | ✉️ brianmaimba73@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/brian-maimba/) | 💻 [GitHub](https://github.com/maimbaM)
+📍 Nairobi, Kenya | ✉️ brianmaimba73@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/brian-maimba/) | 💻 [Blog](https://brianmaimba.hashnode.dev/) | 
 
 ---
 
